@@ -28,6 +28,3 @@ jobs:
 
     - name: Run Streamlit app
       run: streamlit run your_app.py
-
-
- 
